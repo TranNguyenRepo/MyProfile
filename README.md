@@ -17,3 +17,11 @@
 
 # My Profile
 https://sites.google.com/view/trannguyenprofile/home
+## 🧠 SQL Practice — Xom Data
+
+![Solved](https://img.shields.io/badge/Solved-71-blue)
+![Medium](https://img.shields.io/badge/Medium-31-yellow)
+![Hard](https://img.shields.io/badge/Hard-12-orange)
+![Nightmare](https://img.shields.io/badge/Nightmare-28-red)
+
+Luyện SQL trên [Xom Data](https://xomdata.com/practice) · cập nhật 2026-08-20
