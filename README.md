@@ -16,7 +16,8 @@
 📝 I document my projects clearly with business objectives, data models, and insights to make analytics more accessible and impactful.
 
 # My Profile
-https://sites.google.com/view/trannguyenprofile/home
+https://trannguyen-portfolio2026.netlify.app/
+
 ## 🧠 SQL Practice — Xom Data
 
 ![Solved](https://img.shields.io/badge/Solved-71-blue)
